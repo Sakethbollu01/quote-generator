@@ -1,0 +1,22 @@
+#quote-container {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #f1f1f1;
+  border-radius: 10px;
+}
+
+#quote {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+#new-quote-btn {
+  padding: 10px 20px;
+  background-color: pink;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
